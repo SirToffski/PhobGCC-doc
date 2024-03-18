@@ -1,6 +1,6 @@
 # PhobGCC v2.0 Programming Guide
 
-This is a guide to programming the teensy microcontroller on PhobGCC v2.0.
+This is a guide to programming the RP2040 Pico microcontroller on PhobGCC v2.0.
 
 # Tools
 
